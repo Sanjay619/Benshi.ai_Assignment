@@ -2,6 +2,9 @@
     <string name="app_name">Benshi.AI_Assignment</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet_message">Internet not connected..!</string>
     <string name="posts">Posts</string>
     <string name="post_Details">Post Details</string>
+    <string name="show_commnets">Show Commnets</string>
+    <string name="mapKey" />
 </resources>

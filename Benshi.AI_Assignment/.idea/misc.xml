@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Project/Assignemnt/Benshi.AI_Assignment/app/src/main/res/layout/activity_post.xml" value="0.15520833333333334" />
+        <entry key="..\:/Android Project/Assignemnt/Benshi.AI_Assignment/app/src/main/res/layout/comments_item.xml" value="0.22916666666666666" />
         <entry key="..\:/Android Project/Assignemnt/Benshi.AI_Assignment/app/src/main/res/layout/fragment_post.xml" value="0.16927083333333334" />
         <entry key="..\:/Android Project/Assignemnt/Benshi.AI_Assignment/app/src/main/res/layout/fragment_post_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Project/Assignemnt/Benshi.AI_Assignment/app/src/main/res/layout/item_comments.xml" value="0.23489583333333333" />
+        <entry key="..\:/Android Project/Assignemnt/Benshi.AI_Assignment/app/src/main/res/layout/loader_item.xml" value="0.23854166666666668" />
         <entry key="..\:/Android Project/Assignemnt/Benshi.AI_Assignment/app/src/main/res/layout/post_item.xml" value="0.2" />
       </map>
     </option>
